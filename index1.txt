@@ -1,1 +1,22 @@
-testando 
+
+Configurando contas git e github
+
+- git config --global user.email "seu_email"
+- git config --global user.name "seu_nome"
+- git remote add origin LINK CONTA GITHUB
+__________________________________________________________________
+
+Inicializando um repositório
+
+- botão direito na pasta -> GIT BASH HERE 
+- git init
+- git status
+
+__________________________________________________________________
+
+Adicionando arquivos ao controle de versão
+
+- git add . OU git add "nome_versao"
+- git commit -m "nome_commit"
+- git push
+- git push --set-upstream origin master
