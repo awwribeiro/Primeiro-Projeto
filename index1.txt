@@ -20,3 +20,18 @@ Adicionando arquivos ao controle de versão
 - git commit -m "nome_commit"
 - git push
 - git push --set-upstream origin master
+
+__________________________________________________________________
+
+Navegando entre as versões do código
+
+- git reflog (histórico de versões)
+- git reset --hard ID DA VERSÃO (voltar a versão anterior)
+
+__________________________________________________________________
+
+Criando uma BRANCH
+
+
+
+
